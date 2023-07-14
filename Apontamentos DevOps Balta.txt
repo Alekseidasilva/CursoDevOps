@@ -1,0 +1,33 @@
+
+Fundamentos do Azure, Git, GitHub e DevOps
+->Extension e Apps
+oh-my-posh
+git------>Versionador de Codigo
+Github--->plataforma
+cd..  --->voltar a pasta anterior
+ii . ---->Abrir explorer
+code . --->abrir o directorio com vscode
+
+
+
+Commands
+gh auth login---efectuar login 
+git init     ---Inicializa um repositorio Git
+git config --global init.defaultbranch main
+git config --global user.name "Aleksei da Silva"
+user.email "alekseidasilva@hotmail.com"
+echo "#meu-segundo-repo" >> README.md
+git status---Ver o estado da branch e arquivos modificados
+git commit -m "Adicionado Readme do Repositorio"
+git push ----->enviar 
+git remote add origin https://--->adicionar repositorio a um remoto
+git push -u origin main
+git add --all ----->Traquear todos arquivos
+dotnet new gitignore--->gitignore dotnet
+git checkout -b Create-New-User----->criação de Nova branch
+
+
+
+
+
+
